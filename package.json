@@ -5,6 +5,10 @@
   "scripts": {
     "start": "budo src/index.js:index.js --live -- -t [ babelify ]"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hokuma/page-transition-in-react-router"
+  },
   "author": "hokuma",
   "license": "MIT",
   "dependencies": {
